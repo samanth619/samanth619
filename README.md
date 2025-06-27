@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**samanth619/samanth619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a **Full Stack JavaScript Web Developer** currently working as a **Web Accessibility Software Engineer**.  
+I love building accessible, user-friendly apps with **JavaScript** and **React**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗺️ Favourite Locations
+
+A simple app built with **Babylon**, **React JS**, and the **Google Maps API**.  
+🌟 [View on GitHub](https://github.com/samanth619/Favourite_Locations)
+
+---
+
+### ❤️ What Makes Me Happy
+
+- 🏋️‍♂️ Workouts
+- ✈️ Travelling
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/samanthbaraju/)
+
+---
+
+> 💡 **Let's learn not to compromise on making the world accessible.**
